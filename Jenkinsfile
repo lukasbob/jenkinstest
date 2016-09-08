@@ -10,5 +10,5 @@ node {
 
 stage 'Demo 3'
 node {
-  sh 'echo snask'
+  bat 'echo snask'
 }
