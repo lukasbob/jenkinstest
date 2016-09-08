@@ -1,9 +1,9 @@
 stage 'Demo'
 node {
-  sh 'env'
+  bat 'env'
 }
 
 stage 'Demo 2'
 node {
-  sh 'echo foo'
+  bat 'echo foo'
 }
