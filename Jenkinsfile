@@ -1,6 +1,6 @@
 stage 'Demo'
 node {
-  bat 'env'
+  bat 'set'
 }
 
 stage 'Demo 2'
